@@ -1,6 +1,6 @@
-# flare_teste
+# Teste Flare
 
-A new Flutter project.
+Projeto para teste de animações feitas no flare para criar uma splash screen em flutter
 
 ## Getting Started
 
